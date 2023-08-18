@@ -1,0 +1,8 @@
+Criar um ambiente virtual
+    python -m venv ./ambiente_virtual
+
+Habilitar ambiente virtual:
+    ambiente_virtual/Scripts/Activate
+
+Desabilitar Ambiente Virtual:
+    deactivate
